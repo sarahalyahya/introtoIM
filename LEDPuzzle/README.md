@@ -9,10 +9,12 @@ The instructions I gave the users were: </br>
   3. You can press a maximum of two buttons at the same time  </br>
   4.  Here's a riddle to give you a hint: 
 </br>
-         _"You see me in the air </br>
+
+
+         *"You see me in the air </br>
         But I am not a kite</br>
         I am what's created</br>
-        When water refracts light</br>"_
+        When water refracts light</br>"*
         
 <h4>Solution</h4>
 The solution is inspired by the colors of the rainbow which I considered to be (Red,Orange,Yellow,Green,Blue,Violet). </br>
