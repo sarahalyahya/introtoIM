@@ -4,10 +4,10 @@ I decided to create an LED puzzle, the goal was to press the buttons in a specif
 
 <h4> Puzzle Prompt</h4>
 The instructions I gave the users were:
-1. You need six steps to achieve the task
-2. These steps have a specific order/sequence
-3. You can press a maximum of two buttons at the same time
-4. Here's a riddle to give you a hint:
+1. You need six steps to achieve the task </br>
+2. These steps have a specific order/sequence </br>
+3. You can press a maximum of two buttons at the same time </br>
+4. Here's a riddle to give you a hint: 
 </br>
         _"You see me in the air </br>
         But I am not a kite</br>
