@@ -2,7 +2,7 @@
 Our assignment was to create a puzzle with our Arduino Uno. It was my first time working with it, and it was very interesting to observe the differences between debugging a circuit and debugging code. 
 I decided to create an LED puzzle, the goal was to press the buttons in a specific order based on a given riddle, to get all LEDs to light up. 
 
-<h4> Puzzle Prompt/h4>
+<h4> Puzzle Prompt</h4>
 The instructions I gave the users were:
 1. You need six steps to achieve the task
 2. These steps have a specific order/sequence
