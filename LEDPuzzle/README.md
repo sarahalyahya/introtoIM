@@ -11,10 +11,10 @@ The instructions I gave the users were: </br>
 </br>
 
 
-         *"You see me in the air </br>
-        But I am not a kite</br>
-        I am what's created</br>
-        When water refracts light</br>"*
+         *You see me in the air 
+        But I am not a kite
+        I am what's created
+        When water refracts light*
         
 <h4>Solution</h4>
 The solution is inspired by the colors of the rainbow which I considered to be (Red,Orange,Yellow,Green,Blue,Violet). </br>
